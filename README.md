@@ -23,10 +23,8 @@ Here are some ideas to get you started:
   <br> <br>
 [![Blog Badge](http://img.shields.io/badge/Past%20Blog-dcffe4?style=flat-square&logo=Naver&link=https://blog.naver.com/zmffhqj714)](https://blog.naver.com/zmffhqj714)
 <br>
-<br>
-
 🚀 Skills 
- <br>
+ <br> <br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
