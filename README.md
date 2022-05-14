@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <br>
  
   ⚙️ ORM
- <br> <br>
+ <br>
    ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
  
 </div>
