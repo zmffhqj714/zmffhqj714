@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### What I AM Stacking
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Mysql](https://img.shields.io/badge/-Mysql-E10098?style=for-the-badge&logo=Mysql&logoColor=white)
 
   
 </div>
