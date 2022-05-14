@@ -1,4 +1,4 @@
-### Hi there 👋
+_### Hi there 👋
 
 <!--
 **zmffhqj714/zmffhqj714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,9 +46,11 @@ Here are some ideas to get you started:
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
   ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![MariaDb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  <br>
   ⚙️ ORM
  <br>
    ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
  
 </div>
 
+_
