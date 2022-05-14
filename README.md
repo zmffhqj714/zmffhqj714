@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=22272d&height=100&section=header&text=Good%20to%20see%20you!&fontSize=50&fontColor=e7e7e7)
+
+ ![header](https://capsule-render.vercel.app/api?type=cylinder&color=22272d&height=100&section=header&text=Good%20to%20see%20you!&fontSize=50&fontColor=e7e7e7)
 <br>
  📝 Blog
  <br>
@@ -51,4 +52,4 @@ Here are some ideas to get you started:
    ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 </div>
 
-_
+
