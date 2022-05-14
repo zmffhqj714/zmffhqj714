@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Blog Badge](http://img.shields.io/badge/Past%20Blog-dcffe4?style=flat-square&logo=Naver&link=https://blog.naver.com/zmffhqj714)](https://blog.naver.com/zmffhqj714)
 <br>
 <br>
-
+ <br>
 🚀 Skills 
  <br>
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <br>
  
   ⚙️ ORM
- <br>
+ <br> <br>
    ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
  
 </div>
