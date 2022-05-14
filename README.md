@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <br>
 
  📝 Blog
+  <br>
 [![Blog Badge](http://img.shields.io/badge/Past%20Blog-dcffe4?style=flat-square&logo=Naver&link=https://blog.naver.com/zmffhqj714)](https://blog.naver.com/zmffhqj714)
 <br>
 <br>
@@ -38,16 +39,19 @@ Here are some ideas to get you started:
  <br> <br>
    ☁ Cloud 
  <br>
+ 
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
     ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
    <br> <br>
   ⚡ Database
  <br>
+ 
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
   ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![MariaDb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   <br>
   <br>
+ 
   ⚙️ ORM
  <br>
    ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
