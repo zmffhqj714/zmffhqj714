@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 <div align="center">
 
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=22272d&height=100&section=header&text=Good%20to%20see%20you!&fontSize=50&fontColor=e7e7e7)
-<br><br>
+
+
+ 
+ <br><br>
  📝 Blog
  <br>
 [![Blog Badge](http://img.shields.io/badge/Past%20Blog-dcffe4?style=flat-square&logo=Naver&link=https://blog.naver.com/zmffhqj714)](https://blog.naver.com/zmffhqj714)
@@ -43,9 +46,8 @@ Here are some ideas to get you started:
   ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   <br>
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zmffhqj714)](https://solved.ac/backjoon714)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/zmffhqj714)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zmffhqj714)](https://solved.ac//)
+
 </div>
 
 
