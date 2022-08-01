@@ -42,6 +42,8 @@ Here are some ideas to get you started:
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
   ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   <br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=backjoon714)](https://solved.ac/backjoon714/)
+
 </div>
 
 
