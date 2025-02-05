@@ -37,7 +37,6 @@ Here are some ideas to get you started:
    ☁ Cloud 
  <br>
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-   ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
    <br> 
    <br>
   ⚡ Database
