@@ -133,8 +133,8 @@ I prefer to look deeply, collaborate genuinely, and grow together.
 
 
 
-##   🙋‍♂️ 협력요청, 기타 궁금한 관련 사항에 친절하고 도움이 되는 답변을 드리겠습니다. 자유롭게 메일을 주세요.<br/>
-##   🙋‍♂️ Open to collaboration, questions, or just a friendly chat.  
+   🙋‍♂️ 협력요청, 기타 궁금한 관련 사항에 친절하고 도움이 되는 답변을 드리겠습니다. 자유롭게 메일을 주세요.<br/>
+   🙋‍♂️ Open to collaboration, questions, or just a friendly chat.  
  📬 bon.cho@bureauveritas.com
 
 
