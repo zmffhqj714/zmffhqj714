@@ -52,7 +52,7 @@ and aim to be the kind of teammate you can count on.
 - 성과:
  - 실수 없는 배포, 대기 시간 절반으로 단축
 
-   🛠️ Key Projects
+🛠️ Key Projects
 🌀 Internal Deployment Dashboard  
 > Automated deployment & alert system for Spring Boot services
 - Stack: Spring Boot, EC2, GitHub Actions, Slack Webhook  
