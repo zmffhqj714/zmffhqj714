@@ -12,6 +12,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm G otter!
+I'm a backend developer passionate about building **reliable**, **scalable** systems with Spring Boot, AWS, and Kubernetes.  
+I love solving real-world problems, collaborating with teams, and continuously improving both code and communication.
+🔭 **Currently working on**: Internal DevOps automation with Docker & GitHub Actions  
+🌱 **Learning more about**: distributed systems, observability, and clean architecture  
+---
+## ⚙️ Tech Stack
+- 💻 **Backend**: Java, Spring Boot, JPA, MyBatis  
+- ☁️ **DevOps**: AWS (EC2, RDS, CloudWatch), Docker, GitHub Actions  
+- 🧪 **Testing & QA**: JUnit, Testcontainers, Postman  
+- 📊 **Monitoring**: Prometheus, Grafana, Elasticsearch  
+- 📦 **DB**: MariaDB, Redis  
+---
+## 🛠️ Featured Projects
+### 📌 [Internal Deployment Dashboard](https://github.com/yourname/deploy-dashboard)
+- **Purpose**: Simplify deployment process for internal Spring Boot services  
+- **Stack**: Spring Boot, Docker, GitHub Actions, EC2  
+- **Role**: Designed backend API, automated deployment with GitHub Actions, integrated Slack alert system  
+- **What I Learned**: Importance of infrastructure-as-code and cross-team collaboration
+---
+### 📌 [StudyMate (스터디 자동화 봇)](https://github.com/yourname/studymate-bot)
+- 자동으로 스터디 시간 체크, 회의록 생성, 출결 처리  
+- 개인 생산성 문제를 해결하며 만든 사이드 프로젝트  
+- **기술**: Node.js, Discord API, Firebase
+---
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&hide=stars&theme=default)
+---
+## 🤝 Collaboration & Values
+- I believe in writing **clean**, **maintainable** code.
+- I value **honest communication**, **fast feedback**, and **shared learning**.
+- I take **responsibility seriously** — I’ll always try to unblock the team.
+---
+> 📫 **Reach me at**: [your.email@example.com]  
+> ☕ **Let's build something amazing together.**
+
+
 <div align="center">
 
  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=22272d&height=100&section=header&text=Good%20to%20see%20you!&fontSize=50&fontColor=e7e7e7)
