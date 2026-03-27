@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 안녕하세요, 백엔드 개발자 Bon 입니다
-
-👋 Hello, I'm Bon — a backend developer
-
 Bon CHO
 Software Engineer | Backend / Cloud / Full-stack
 
