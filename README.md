@@ -17,7 +17,14 @@ Here are some ideas to get you started:
 
 👋 Hello, I'm Bon — a backend developer
 
+Bon CHO
+Software Engineer | Backend / Cloud / Full-stack
 
+📍 Seoul, South Korea
+📧 zmffhqj714@gmail.com
+🔗 GitHub: https://github.com/yourname
+🔗 LinkedIn: https://linkedin.com/in/yourname
+🔗 Portfolio: https://yourdomain.com
 
 
 
